@@ -40,3 +40,8 @@ vignettes/*.pdf
 
 # Dataset directory
 dataset/
+/dataset/
+
+# Rsconnect
+rsconnect/
+/rsconnect/
